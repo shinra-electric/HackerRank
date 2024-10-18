@@ -1,6 +1,10 @@
 # HackerRank
 Solutions to HackerRank questions in Swift
 
+> [!NOTE]
+> I have implemented the functions in Swift Playgrounds. The functions may not exactly match what HackerRank is expecting<br>
+> In cases where it differs, I have a snippet of code that can by copy/pasted into the HackerRank function directly
+
 ## Easy
 
 <details>
