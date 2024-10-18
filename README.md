@@ -27,7 +27,7 @@ Solutions to HackerRank questions in Swift
 - [x] [Beautiful Days at the Movies](https://github.com/shinra-electric/HackerRank/tree/main/Easy/Beautiful%20Days%20At%20The%20Movies)
 - [ ] Beautiful Triplets
 - [ ] Between Two Sets
-- [ ] Bill Division
+- [x] [Bill Division](https://github.com/shinra-electric/HackerRank/tree/main/Easy/Bill%20Division)
 - [x] [Breaking the Records](https://github.com/shinra-electric/HackerRank/tree/main/Easy/Breaking%20The%20Records)
 - [x] [Cats and a Mouse](https://github.com/shinra-electric/HackerRank/tree/main/Easy/Cats%20and%20a%20Mouse)
 - [ ] Cavity Map
