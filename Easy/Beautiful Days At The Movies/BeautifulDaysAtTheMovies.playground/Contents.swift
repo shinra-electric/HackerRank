@@ -8,12 +8,10 @@ import Cocoa
  
  steps:
  1: put the range of numbers into an array
- 
- 
  2: Create a loop to iterate over the array where:
- a: Get the difference between the day and its reverse
- b: use a modulus check with the divisor to see if the remainder is zero
- c: if so, increment count.
+    a: Get the difference between the day and its reverse
+    b: use a modulus check with the divisor to see if the remainder is zero
+    c: if so, increment count.
  
  3: return count
  
@@ -69,7 +67,7 @@ func reverseInt(number: Int) -> Int {
 
 
 // Expected result: 2998
-// This test causes a timeout
+// This test causes a timeout on HackerRank
 // The modulus only works because the difference is 0
 // No number can divide zero so the remainder is always 0.
 beautifulDays(startDay: 1, endDay: 2_000_000, divisor: 1_000_000_000)
