@@ -69,7 +69,7 @@ func reverseInt(number: Int) -> Int {
 
 
 // Expected result: 2998
-// This is the test that causes the timeout
+// This test causes a timeout
 // The modulus only works because the difference is 0
 // No number can divide zero so the remainder is always 0.
 beautifulDays(startDay: 1, endDay: 2_000_000, divisor: 1_000_000_000)
